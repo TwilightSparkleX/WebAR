@@ -1,6 +1,6 @@
 Model Information:
-* title:	Cardiff_grey
-* source:	https://sketchfab.com/3d-models/cardiff-grey-ca01fbd345d24a8dabc64754432fa878
+* title:	Bag
+* source:	https://sketchfab.com/3d-models/bag-1e2ebcbe43d94c2b8930e46deb591cb7
 * author:	TwilightSparkleX (https://sketchfab.com/TwilightSparkleX)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Cardiff_grey" (https://sketchfab.com/3d-models/cardiff-grey-ca01fbd345d24a8dabc64754432fa878) by TwilightSparkleX (https://sketchfab.com/TwilightSparkleX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Bag" (https://sketchfab.com/3d-models/bag-1e2ebcbe43d94c2b8930e46deb591cb7) by TwilightSparkleX (https://sketchfab.com/TwilightSparkleX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
